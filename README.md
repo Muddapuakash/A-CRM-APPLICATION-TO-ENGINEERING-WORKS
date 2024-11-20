@@ -1,4 +1,5 @@
-<b><h1>A CRM APPLICATION TO ENGINEERING WORKS</h1></b>
+<b><h1>A CRM APPLICATION TO ENGINEERING WORKS</h1>
+https://drive.google.com/file/d/1WFcLzrjBvpDHyZJ1OWWr9AJu9jNw0cQw/view?usp=drive_link</b>
 
 <b>PROJECT OVERVIEW:</b><br>
 <em>This project is focused on developing a CRM application tailored for engineering projects, designed to efficiently manage client information and project details. The goal is to deliver a comprehensive solution that encompasses company information, owner details, contact information, worker details, and their respective material requirements, including measurements. The application will also automatically calculate prices based on specified materials and measurements. Through this project, we aim to enhance operational efficiency, user experience, and data accuracy, supporting the long-term goals of engineering organizations.</em>
